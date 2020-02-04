@@ -1,5 +1,4 @@
 # SUNNYSIDE
-[SUNNYSIDE](http://ec2-13-209-5-35.ap-northeast-2.compute.amazonaws.com:8080/SUNNYSIDE_MYSQL/main/main.do)
 #### 조장
 김도연
 #### 조원
@@ -11,7 +10,7 @@
 
 
 ## 프로젝트 주제
-영화 예매 사이트
+영화 예매 사이트 [SUNNYSIDE 영화관 바로가기](http://ec2-13-209-5-35.ap-northeast-2.compute.amazonaws.com:8080/SUNNYSIDE_MYSQL/main/main.do)
 
 ## WBS
 ![WBS](https://github.com/HR-Kim/SUNNYSIDE3/blob/master/DOC/image/WBS.PNG)
